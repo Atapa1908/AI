@@ -1,0 +1,4 @@
+# Ignore following files
+gtsrb
+script.txt
+test*.py
