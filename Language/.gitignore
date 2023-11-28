@@ -1,0 +1,12 @@
+# Ignore attention files
+attention/*
+
+!attention/analysis.md
+!attention/mask.py
+!attention/requirements.txt
+
+# Ignore parser files
+parser/test_1.py
+
+# Ignore questions
+questions
