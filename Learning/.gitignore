@@ -1,0 +1,6 @@
+# Ignore nim files
+nim/__pycache__
+
+# Ignore shopping files
+shopping/shopping-small.csv
+shopping/test_1.py
