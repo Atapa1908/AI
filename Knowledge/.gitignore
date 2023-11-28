@@ -1,0 +1,10 @@
+# Ignore __pycache__ directory in both knights and minesweeper
+knights/__pycache__/
+minesweeper/__pycache__/
+
+# Ignore specific files in knights
+knights/test.py
+
+# Ignore specific files in minesweeper
+minesweeper/test_1.py
+minesweeper/test_2.py
