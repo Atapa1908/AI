@@ -1,0 +1,5 @@
+# Ignore heredity files
+test*.py
+
+# Ignore pagerank files
+test_1.py
