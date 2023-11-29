@@ -1,6 +1,7 @@
 # Ignore attention files
 attention/*
 
+!attention/assets
 !attention/analysis.md
 !attention/mask.py
 !attention/requirements.txt

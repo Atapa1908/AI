@@ -1,0 +1,4 @@
+# Ignore following files
+__pycache__
+output.png
+test_1.py
