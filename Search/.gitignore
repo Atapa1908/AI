@@ -1,0 +1,11 @@
+# Ignore degrees files
+degrees/*
+
+!degrees/small
+!degrees/degrees.py
+!degrees/util.py
+
+# Ignore tictactoe files
+tictactoe/__pycache__
+tictactoe/test_1.py
+tictactoe/tictactoe_test.py
